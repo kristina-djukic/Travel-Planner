@@ -1,7 +1,7 @@
 # Travel-Planner
 
 Project Overview
-A full-stack travel planner application using .NET 8 (C#) for the backend, Angular 17 (Typescript, SCSS) for the frontend, and phpMyAdmin for database management.
+A full-stack travel planner application. It enables users to track their budget, plan their trips, explore trending trips...
 
 Tech Stack:
 Backend: .NET 8 (C#)
